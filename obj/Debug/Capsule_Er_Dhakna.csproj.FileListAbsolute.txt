@@ -1,0 +1,7 @@
+H:\code\c#\Capsule_Er_Dhakna\obj\Debug\Capsule_Er_Dhakna.csprojAssemblyReference.cache
+H:\code\c#\Capsule_Er_Dhakna\obj\Debug\Capsule_Er_Dhakna.csproj.CoreCompileInputs.cache
+H:\code\c#\Capsule_Er_Dhakna\bin\Debug\Capsule_Er_Dhakna.exe.config
+H:\code\c#\Capsule_Er_Dhakna\bin\Debug\Capsule_Er_Dhakna.exe
+H:\code\c#\Capsule_Er_Dhakna\bin\Debug\Capsule_Er_Dhakna.pdb
+H:\code\c#\Capsule_Er_Dhakna\obj\Debug\Capsule_Er_Dhakna.exe
+H:\code\c#\Capsule_Er_Dhakna\obj\Debug\Capsule_Er_Dhakna.pdb
